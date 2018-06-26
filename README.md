@@ -18,7 +18,7 @@ If you prefer to use SSH (a bit more complex to set up!) you can use the SSH ver
 git clone git@github.com:rsnider-ct/coding-challenges.git
 ```
 
-Once it is cloned to your local computer, we will need to create a new branch to serve as your `master` branch. simply run
+Once it is cloned to your local computer, we will need to create a new branch to serve as your `master` branch. `cd` into the newly created repository and run
 
 ```bash
 git checkout -b <your name>-master && git push -u origin <your name>-master
