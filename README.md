@@ -2,6 +2,8 @@
 
 This repository is a collection of problems of varying degrees of difficulty designed to help someone start out in their Software Engineering path. Each problem is designed to be self-contained, and will utilize various components and technologies as they progress.
 
+This project is designed in the mindset that the user has a basic understanding of git, however I've outlined exactly how to use git below. Moreover, the user should be comfortable running commands on the command line.
+
 ## Cloning and Setting up the Repository
 
 To Start, clone this repository to your local machine. This can be done as follows:
