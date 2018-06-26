@@ -32,6 +32,8 @@ Every problem has a README.md that I highly suggest you read before you work (it
 
 Personally, I believe any language would be more than enough for doing these challenges, so I will not enforce any one language to be used. That being said, I have some recommendations for your choice. If you are new to programming, I highly recommend using Python as your starting language (version 2.7 is preferable, but 3 would also be fine). Python offers a simple, yet powerful syntax that will help you spend more time learning the concepts of programming and less on syntatical "gotchas".  
 
+## Setting up a problem for work
+
 To submit code to the problemset, we will be using git's branching model. This will make it easy to track changes between problems, and can also be used to review code through GitHub's review system. Whenever you begin a coding challenge, create a new branch using the following command:
 
 ```bash
